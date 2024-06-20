@@ -1,0 +1,24 @@
+body{
+    background-color: plum;
+    font-family: "Playwrite PL", cursive;
+}
+
+#score{
+    font-size: 50px;
+    margin-left: 100px;
+}
+
+#the_timer{
+    font-size: 50px;
+    float: right;
+    margin-right: 100px;
+}
+
+#sketch_to_be_drawn{
+     color: peru;
+}
+
+canvas{
+    border-radius: 50px;
+    box-shadow: ;
+}
